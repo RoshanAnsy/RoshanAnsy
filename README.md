@@ -2,7 +2,7 @@
 <h3 align="center">I am software Developer Engineer from India</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fgeometric-animations-171119-gif-processing-creative-coding-art-everyday-geometry-httpifttt2zwg0ub--71072500353753777%2F&psig=AOvVaw1cYl-lXmXo5jdEKh7U8vKM&ust=1671305224982000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjz2KHv_vsCFQAAAAAdAAAAABAR"  >
+<img align="right" alt="coding" width="400" src="https://www.flaticon.com/free-sticker/programming_8662557"  >
 
 - 🌱 I’m currently learning **spring Boot,**
 
