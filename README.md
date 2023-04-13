@@ -1,4 +1,4 @@
-<image width=1000  height=350 src="https://user-images.githubusercontent.com/91673102/228827077-a2ea3d87-21c9-4a2f-8467-fe7c447f0c21.png"/>
+<image width=1000   src="https://user-images.githubusercontent.com/91673102/231735044-82a095a3-4b9a-4995-b534-bd8972fdb655.png"/>
 
  
 
@@ -24,3 +24,4 @@
 
 
 
+<!-- ![Yellow Monochrome Photo LinkedIn Banner](https://user-images.githubusercontent.com/91673102/231735044-82a095a3-4b9a-4995-b534-bd8972fdb655.png) -->
