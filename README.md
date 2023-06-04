@@ -16,7 +16,7 @@
  
 <image align="right" width=100 height=100 src="https://user-images.githubusercontent.com/91673102/228229372-0006d3e5-b578-4ac9-a074-99008c31943e.png"/>
 
-### Social Media
+### 🌐Social Media
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshan-kr-11070b1a3/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RoshanAnsy)
   
@@ -64,8 +64,12 @@
 <img flex=row width=auto align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=roshanansy&show_icons=true&theme=transparent&layout=compact" alt="roshanansy" />
 
 
+
+---
+
 ## :writing_hand: Quote:
 Take Time, for building your new version !
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RoshanAnsy&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
