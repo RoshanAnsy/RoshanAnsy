@@ -61,11 +61,11 @@
 <img flex=row width=auto align="left" src="https://github-readme-stats.vercel.app/api?username=RoshanAnsy&show_icons=true&theme=transparent" />
 <img flex=row width=auto align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=roshanansy&show_icons=true&theme=transparent&layout=compact" alt="roshanansy" />
 
-------
+<!-- ------
 
-## :writing_hand: Quote:
-    Take Time, for building your new version !
-
+   ## :writing_hand: Quote:
+      Take Time, for building your new version !
+ -->
 ---
 
 [![](https://visitcount.itsvg.in/api?id=RoshanAnsy&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
