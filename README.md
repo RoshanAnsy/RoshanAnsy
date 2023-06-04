@@ -11,9 +11,14 @@
 - 📫  How to reach me **roshanansy123@gmail.com**
 
 - ⚡ Fun fact **simple ——•**
+## Tech stacks
+<!-- ![alt text](https://img.shields.io/badge/Tesla-00599C?style=for-the-badge&logo=Tesla) -->
+![alt text](https://img.shields.io/badge/C++-F09820?style=for-the-badge&logo=cplusplus)
 
+### Social Media
+<img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FRoshanAnsy"/>
 
-
+## 
 <img flex=row width=auto align="left" src="https://github-readme-stats.vercel.app/api?username=RoshanAnsy&show_icons=true&theme=transparent" />
 
 
