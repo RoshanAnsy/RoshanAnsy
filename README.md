@@ -6,7 +6,7 @@
 ## HELLO JI :wave:, I'm Roshan kumar! 
 
 # :dizzy: About Me! 
-:fireworks: I’m currently working  on GSSoC and SSoC.
+:fireworks: I’m currently working  on Personal Full stack Project.
 
 :people_holding_hands:  I’m looking to collaborate on exciting open-source projects and innovative web applications.  
 
