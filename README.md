@@ -90,7 +90,7 @@
 </div>
 <div width="full" align="center" >
    
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RoshanAnsy&theme=dark)](https://git.io/streak-stats)
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RoshanAnsy&theme=transparent&layout=compact")](https://git.io/streak-stats)
   </div>
 
 
