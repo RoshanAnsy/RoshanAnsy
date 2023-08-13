@@ -62,11 +62,19 @@
 <img flex=row width=auto align="left" src="https://github-readme-stats.vercel.app/api?username=RoshanAnsy&show_icons=true&theme=transparent" />
 <img flex=row width=auto align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=roshanansy&show_icons=true&theme=transparent&layout=compact" alt="roshanansy" />
 </div>
-
-   <div align="center">
-    <h3 align="center" >:writing_hand: Quote </h3>
+<br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+   <div align="left">
+    <h3 align="lef" >:writing_hand: Quote </h3>
   
-  <span > Take your time in building your new version ! </span>
+ Take your time in building your new version ! 
    
   <p align="center" > 
   
