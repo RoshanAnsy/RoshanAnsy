@@ -57,18 +57,20 @@
 ![alt text](https://img.shields.io/badge/IntellijIDEA-05A081?style=for-the-badge&logo=intellijidea)
 ![alt text](https://img.shields.io/badge/SublimeText-05A081?style=for-the-badge&logo=sublimetext)
 
-
+<div align="center" > 
 <img flex=row width=auto align="left" src="https://github-readme-stats.vercel.app/api?username=RoshanAnsy&show_icons=true&theme=transparent" />
 <img flex=row width=auto align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=roshanansy&show_icons=true&theme=transparent&layout=compact" alt="roshanansy" />
-
+</div>
 <!-- ------
 
    ## :writing_hand: Quote:
       Take Time, for building your new version !
  -->
 ---
+<p align="center" > 
 
 [![](https://visitcount.itsvg.in/api?id=RoshanAnsy&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
+</p>
 
 
 
