@@ -22,7 +22,7 @@
   
 
 ## Tech stack:~
-<!-- ![alt text](https://img.shields.io/badge/Tesla-00599C?style=for-the-badge&logo=Tesla) -->
+
 ![alt text](https://img.shields.io/badge/C-F09820?style=for-the-badge&logo=c)
 ![alt text](https://img.shields.io/badge/C++-F09820?style=for-the-badge&logo=cplusplus)
 ![alt text](https://img.shields.io/badge/HTML-F09820?style=for-the-badge&logo=html5)
@@ -58,24 +58,23 @@
 ![alt text](https://img.shields.io/badge/SublimeText-05A081?style=for-the-badge&logo=sublimetext)
 
 <div align="center" > 
+ <div>
 <img flex=row width=auto align="left" src="https://github-readme-stats.vercel.app/api?username=RoshanAnsy&show_icons=true&theme=transparent" />
 <img flex=row width=auto align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=roshanansy&show_icons=true&theme=transparent&layout=compact" alt="roshanansy" />
 </div>
 
    <div align="center">
-    <h3  >:writing_hand: Quote </h3>
+    <h3 align="center" >:writing_hand: Quote </h3>
   
-   Take Time, for building your new version ! 
-   </div>
- 
-
-<br/>
-<p align="center" > 
-
-[![](https://visitcount.itsvg.in/api?id=RoshanAnsy&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
-
-</p>
-
+  <span > Take your time in building your new version ! </span>
+   
+  <p align="center" > 
+  
+  [![](https://visitcount.itsvg.in/api?id=RoshanAnsy&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
+  
+  </p>
+  </div>
+</div>
 
 
-<!-- ![Yellow Monochrome Photo LinkedIn Banner](https://user-images.githubusercontent.com/91673102/231735044-82a095a3-4b9a-4995-b534-bd8972fdb655.png) -->
+
