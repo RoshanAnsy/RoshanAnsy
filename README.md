@@ -59,8 +59,8 @@
 
 <div align="center" > 
  <div>
-<img flex=row width=auto align="left" src="https://github-readme-stats.vercel.app/api?username=RoshanAnsy&show_icons=true&theme=transparent" />
-<img flex=row width=auto align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=roshanansy&show_icons=true&theme=transparent&layout=compact" alt="roshanansy" />
+<img flex=row width=auto align="left" src="https://github-readme-stats.vercel.app/api?username=RoshanAnsy&show_icons=true&theme=transparent&count_private=true" />
+<img flex=row width=auto align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=roshanansy&show_icons=true&theme=transparent&layout=compact&count_private=true" alt="roshanansy" />
 
 
 </div>
@@ -83,14 +83,14 @@
    
   <p align="center" > 
   
-  [![](https://visitcount.itsvg.in/api?id=RoshanAnsy&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=RoshanAnsy&label=Profile%20Views&color=1&icon=5&pretty=false&count_private=true)](https://visitcount.itsvg.in)
   
   </p>
   </div>
 </div>
 <div width="full" align="center" >
    
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RoshanAnsy&theme=transparent&layout=compact")](https://git.io/streak-stats)
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RoshanAnsy&theme=transparent&layout=compact&count_private=true")](https://git.io/streak-stats)
   </div>
 
 
