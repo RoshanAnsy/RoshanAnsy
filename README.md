@@ -112,6 +112,7 @@
 
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RoshanAnsy&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)
+ <image width="100%" height="300" src="https://media.giphy.com/media/O1A7W9ipgqOpq/giphy.gif"/>
 
  
 
