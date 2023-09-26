@@ -3,7 +3,7 @@
  
 
 <!-- <h3 align="center">I am software Developer Engineer from India</h3> -->
-## HELLO JI :wave:, I'm Roshan kumar! 
+## :wave:, I'm Roshan ! 
 
 # :dizzy: About Me! 
 :fireworks: I’m currently working  on SIH 2023 PS.
