@@ -1,10 +1,21 @@
 
-<image src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="100%" height="200"/> 
 
+<image src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif" height="200" width="100%"/>
  
 
 <!-- <h3 align="center">I am software Developer Engineer from India</h3> -->
-## :wave:, I'm Roshan ! 
+
+<br/>
+
+
+<div style="flex flex-col" > 
+
+ ## :wave:, I'm Roshan ! 
+<image align="right" width="300" height="100" src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif"/>
+</div>
+<br/>
+
+<br/>
 
 # :dizzy: About Me! 
 :fireworks: I’m currently working  on SIH 2023 PS.
@@ -14,8 +25,9 @@
 :handshake: I’m looking for help with advanced backend development concepts and DevOps practices.
 
 ⚡ Fun fact : Too productive:)
- 
+
 <image align="right" width=100 height=100 src="https://user-images.githubusercontent.com/91673102/228229372-0006d3e5-b578-4ac9-a074-99008c31943e.png"/>
+
 
 ### 🌐Social Media
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshan-kr-11070b1a3/)
@@ -92,6 +104,10 @@
 <div width="full" align="center" >
    
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RoshanAnsy&theme=transparent&layout=compact&count_private=true")](https://git.io/streak-stats)
+  </div>
+  <div width="100%" gap="20">
+   <image aligh="left" width="50%" height="400" src="https://media.giphy.com/media/l3vR0ALUsWEqa6Cly/giphy.gif"/>
+   <image align="right" width="50%" height="400" src="https://media.giphy.com/media/hvEdKpliYKcY0s4Pak/giphy.gif" />
   </div>
 
 
