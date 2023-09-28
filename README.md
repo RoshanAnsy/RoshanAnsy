@@ -94,11 +94,11 @@
   
  Take your time in building your new version ! 
    
-  <p align="center" > 
+  <div align="center" > 
   
-  [![](https://visitcount.itsvg.in/api?id=RoshanAnsy&label=Profile%20Views&color=1&icon=5&pretty=false&count_private=true)](https://visitcount.itsvg.in)
+  ![](https://komarev.com/ghpvc/?username=RoshanAnsy&label=PROFILE+VIEWS&base=1000)
   
-  </p>
+  </div>
   </div>
 </div>
 <div width="full" align="center" >
