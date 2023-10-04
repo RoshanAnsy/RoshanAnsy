@@ -17,7 +17,7 @@
 
 <div style="flex flex-col" > 
 
- ## :wave:, I'm Roshan ! 
+
 <image align="right" width="300" height="100" src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif"/>
 </div>
 <br/>
