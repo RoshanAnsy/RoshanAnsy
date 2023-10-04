@@ -20,20 +20,22 @@
 
 <image align="right" width="300" height="100" src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif"/>
 </div>
-<br/>
 
-<br/>
+<!--  about me what kind of work i am doing  -->
+<table width="100%">
+ <tr>
 
-# :dizzy: About Me! 
-:fireworks: I’m currently working  on SIH 2023 PS.
+<h2>Currently doing</h2>
 
-:people_holding_hands:  I’m looking to collaborate on exciting open-source projects and innovative web applications.  
+- :fireworks: I’m currently working  on SIH 2023 PS.
 
-:handshake: I’m looking for help with advanced backend development concepts and DevOps practices.
+- :people_holding_hands:  I’m looking to collaborate on exciting open-source projects and innovative web applications.  
 
-⚡ Fun fact : Too productive:)
+- :handshake: I’m looking for help with advanced backend development concepts and DevOps practices.
 
-<image align="right" width=100 height=100 src="https://user-images.githubusercontent.com/91673102/228229372-0006d3e5-b578-4ac9-a074-99008c31943e.png"/>
+  </tr> 
+</table>
+
 
 
 ### 🌐Social Media
