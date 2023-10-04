@@ -31,7 +31,7 @@
 
 - :people_holding_hands:  I’m looking to collaborate on exciting open-source projects and innovative web applications.  
 
-- :handshake: I’m looking for help with advanced backend development concepts and DevOps practices.
+- :handshake: I’m looking for help with advanced backend development  in Spring Boot.
 
   </tr> 
 </table>
