@@ -1,7 +1,13 @@
 
+<table align="center">
+ <td><image src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif" /></td>
+  <td  >
+  
+ <image  src="https://media.giphy.com/media/kGy7wqlKRZyiQ/giphy.gif"/>
+ </td>
+</table>
 
-<image src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif" height="200" width="100%"/>
-<image src="https://github-readme-activity-graph.vercel.app" />
+
  
 
 <!-- <h3 align="center">I am software Developer Engineer from India</h3> -->
@@ -101,10 +107,7 @@
 
 <table width="100%">
  
- <td width="100%" height="300" >
-  
- <image  width="100%" src="https://media.giphy.com/media/kGy7wqlKRZyiQ/giphy.gif"/>
- </td>
+ 
 </table>
 
  
