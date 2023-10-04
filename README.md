@@ -1,6 +1,7 @@
 
 
 <image src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif" height="200" width="100%"/>
+<image src="https://github-readme-activity-graph.vercel.app" />
  
 
 <!-- <h3 align="center">I am software Developer Engineer from India</h3> -->
@@ -70,49 +71,41 @@
 ![alt text](https://img.shields.io/badge/IntellijIDEA-05A081?style=for-the-badge&logo=intellijidea)
 ![alt text](https://img.shields.io/badge/SublimeText-05A081?style=for-the-badge&logo=sublimetext)
 
-<div align="center" > 
- <div>
-<img flex=row width=auto align="left" src="https://github-readme-stats.vercel.app/api?username=RoshanAnsy&show_icons=true&theme=transparent&count_private=true" />
-<img flex=row width=auto align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=roshanansy&show_icons=true&theme=transparent&layout=compact&count_private=true" alt="roshanansy" />
 
+ 
 
-</div>
+ <!--  my github status, language used top most and  Total No. of contibutations -->
+ <table width="100%" align="center">
+  <tr>
+   <td><img  src="https://github-readme-stats.vercel.app/api?username=RoshanAnsy&show_icons=true&theme=transparent&count_private=true&title_color=FFFFFF" /></td>
+   <td><img   src="https://github-readme-stats.vercel.app/api/top-langs?username=roshanansy&show_icons=true&theme=transparent&layout=compact&count_private=true&title_color=FFFFFF" alt="roshanansy" /></td>
+  </tr>
+ </table>
 
+  <!--     our personal quote and profile visitor count-->
+   <table align="center" >
+  <td>
+   <P>Take your time in building your new version ! </P>
+  </td>
+    <td><image src="https://komarev.com/ghpvc/?username=RoshanAnsy&label=PROFILE+VIEWS&base=1000"/></td>
+ <table/>
   
+    
+<!--     graph -->
+<table width="100%" >
+<td>
+ 
+ ![](https://github-readme-activity-graph.vercel.app/graph?username=RoshanAnsy&bg_color=111111&color=708090&line=1FA597&point=FFFFFF&area=true&hide_border=true&title_color=FFFFFF)
+</td>
+</table>
 
-<br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
-   <div align="left">
-    <h3 align="lef" >:writing_hand: Quote </h3>
+<table width="100%">
+ 
+ <td width="100%" height="300" >
   
- Take your time in building your new version ! 
-   
-  <div align="center" > 
-  
-  ![](https://komarev.com/ghpvc/?username=RoshanAnsy&label=PROFILE+VIEWS&base=1000)
-  
-  </div>
-  </div>
-</div>
-<div width="full" align="center" >
-   
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RoshanAnsy&theme=transparent&layout=compact&count_private=true")](https://git.io/streak-stats)
-  </div>
-  <div width="100%" gap="20">
-   <image aligh="left" width="50%" height="400" src="https://media.giphy.com/media/l3vR0ALUsWEqa6Cly/giphy.gif"/>
-   <image align="right" width="50%" height="400" src="https://media.giphy.com/media/hvEdKpliYKcY0s4Pak/giphy.gif" />
-  </div>
-
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RoshanAnsy&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)
- <image width="100%" height="300" src="https://media.giphy.com/media/kGy7wqlKRZyiQ/giphy.gif"/>
+ <image  width="100%" src="https://media.giphy.com/media/kGy7wqlKRZyiQ/giphy.gif"/>
+ </td>
+</table>
 
  
 
