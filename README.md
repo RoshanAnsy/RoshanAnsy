@@ -27,7 +27,7 @@
 
 <h2>Currently doing</h2>
 
-- :fireworks: I’m currently working  on SIH 2023 PS and HACKTOBERFEST 000010.
+- :fireworks: I’m currently working  on SIH 2023.
 
 - :people_holding_hands:  I’m looking to collaborate on exciting open-source projects and innovative web applications.  
 
