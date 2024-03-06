@@ -73,6 +73,8 @@
 
 ![alt text](https://img.shields.io/badge/Git-05A081?style=for-the-badge&logo=git)
 ![alt text](https://img.shields.io/badge/GitHub-05A081?style=for-the-badge&logo=github)
+![alt text](https://img.shields.io/badge/docker-05A081?style=for-the-badge&logo=docker)
+![alt text](https://img.shields.io/badge/kubernetes-05A081?style=for-the-badge&logo=kubernetes)
 ![alt text](https://img.shields.io/badge/GitLab-05A081?style=for-the-badge&logo=gitlab)
 ![alt text](https://img.shields.io/badge/VsCode-05A081?style=for-the-badge&logo=visualstudiocode)
 ![alt text](https://img.shields.io/badge/AndroidStudio-05A081?style=for-the-badge&logo=androidstudio)
