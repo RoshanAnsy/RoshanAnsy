@@ -1,11 +1,11 @@
 
-<table align="center">
+<!--<table align="center">
  <td><image src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif" /></td>
   <td  >
   
  <image  src="https://media.giphy.com/media/kGy7wqlKRZyiQ/giphy.gif"/>
  </td>
-</table>
+</table> -->
 
 
  
@@ -15,11 +15,7 @@
 <br/>
 
 
-<div style="flex flex-col" > 
 
-
-<image align="right" width="300" height="100" src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif"/>
-</div>
 
 <!--  about me what kind of work i am doing  -->
 <table width="100%">
