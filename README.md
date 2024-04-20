@@ -23,7 +23,7 @@
 
 <h2>Currently doing</h2>
 
-- :fireworks: I’m currently working on collage project.
+- :fireworks: I’m currently working on collage project.Live Link :- ai-test2-sand.vercel.app
 
 - :people_holding_hands:  I’m looking to collaborate on exciting open-source projects and innovative web applications.  
 
