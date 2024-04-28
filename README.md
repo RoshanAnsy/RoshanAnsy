@@ -1,6 +1,6 @@
 
 <!--<table align="center">
- <td><image src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif" /></td>
+ <td><image src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif" /></td> 
   <td  >
   
  <image  src="https://media.giphy.com/media/kGy7wqlKRZyiQ/giphy.gif"/>
@@ -23,7 +23,7 @@
 
 <h2>Currently doing</h2>
 
-- :fireworks: I’m currently working on collage project. Link :-<a href="https://ai-test2-sand.vercel.app/" target="_blank" >Live</a>
+- :fireworks: I’m currently working on collage project. Link :-<a href="https://surprise-test12.vercel.app/" target="_blank" >Live</a>
 
 - :people_holding_hands:  I’m looking to collaborate on exciting open-source projects and innovative web applications.  
 
