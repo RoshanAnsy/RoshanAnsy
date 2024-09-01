@@ -23,11 +23,11 @@
 
 <h2>Currently doing</h2>
 
-- :fireworks: I’m currently working on college project. Link :-<a href="https://surprise-test12.vercel.app/" target="_blank" >Live</a>
+- :fireworks: A plateform where you can test your skill. <a href="https://www.testpe.in/" target="_blank" >TestPe.in</a>
 
 - :people_holding_hands:  I’m looking to collaborate on exciting open-source projects and innovative web applications.  
 
-- :handshake: I’m looking for help with advanced system design.
+
 
   </tr> 
 </table>
