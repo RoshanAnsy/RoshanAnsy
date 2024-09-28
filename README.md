@@ -49,7 +49,7 @@
  <table width="100%" align="center">
   <tr>
    <td><img  src="https://github-readme-stats.vercel.app/api?username=RoshanAnsy&show_icons=true&theme=transparent&count_private=true&title_color=FFFFFF" /></td>
-   <td><img   src="https://github-readme-stats.vercel.app/api/top-langs?username=roshanansy&show_icons=true&theme=transparent&layout=compact&count_private=true&title_color=FFFFFF" alt="roshanansy" /></td>
+  
   </tr>
  </table>
 
