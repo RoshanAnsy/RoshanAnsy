@@ -46,12 +46,7 @@
  
 
  <!--  my github status, language used top most and  Total No. of contibutations -->
- <table width="100%" align="center">
-  <tr>
-   <td><img  src="https://github-readme-stats.vercel.app/api?username=RoshanAnsy&show_icons=true&theme=transparent&count_private=true&title_color=FFFFFF" /></td>
-  
-  </tr>
- </table>
+ 
 
   <!--     our personal quote and profile visitor count-->
    <table align="center" >
